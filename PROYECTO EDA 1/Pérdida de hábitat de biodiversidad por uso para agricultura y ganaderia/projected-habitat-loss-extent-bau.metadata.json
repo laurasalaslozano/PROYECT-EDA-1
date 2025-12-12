@@ -1,0 +1,67 @@
+{
+  "chart": {
+    "title": "Number of animal species losing habitat due to cropland expansion by 2050",
+    "subtitle": "The projected number of mammal, bird and amphibian species losing a certain extent of habitat by 2050 as a result of cropland expansion globally under a business-as-usual-scenario.",
+    "citation": "Williams, Clark, Buchanan, Ficetola, Rondinini, & Tilman (2021). Proactive conservation to prevent habitat losses to agricultural expansion. Nature Sustainability.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/projected-habitat-loss-extent-bau?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "species_losing_more_25pct": {
+      "titleShort": "Losing more than 25%",
+      "titleLong": "Losing more than 25%",
+      "unit": "",
+      "timespan": "2050-2050",
+      "type": "Numeric",
+      "owidVariableId": 1025719,
+      "shortName": "species_losing_more_25pct",
+      "lastUpdated": "2021-01-01",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Losing more than 25%” [dataset]. Williams, Clark, Buchanan, Ficetola, Rondinini, & Tilman (2021). Proactive conservation to prevent habitat losses to agricultural expansion. Nature Sustainability. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1025719.metadata.json"
+    },
+    "species_losing_more_50pct": {
+      "titleShort": "Losing more than 50%",
+      "titleLong": "Losing more than 50%",
+      "unit": "",
+      "timespan": "2050-2050",
+      "type": "Numeric",
+      "owidVariableId": 1025723,
+      "shortName": "species_losing_more_50pct",
+      "lastUpdated": "2021-01-01",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Losing more than 50%” [dataset]. Williams, Clark, Buchanan, Ficetola, Rondinini, & Tilman (2021). Proactive conservation to prevent habitat losses to agricultural expansion. Nature Sustainability. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1025723.metadata.json"
+    },
+    "species_losing_more_90pct": {
+      "titleShort": "Losing more than 90%",
+      "titleLong": "Losing more than 90%",
+      "unit": "",
+      "timespan": "2050-2050",
+      "type": "Numeric",
+      "owidVariableId": 1025728,
+      "shortName": "species_losing_more_90pct",
+      "lastUpdated": "2021-01-01",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Losing more than 90%” [dataset]. Williams, Clark, Buchanan, Ficetola, Rondinini, & Tilman (2021). Proactive conservation to prevent habitat losses to agricultural expansion. Nature Sustainability. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1025728.metadata.json"
+    },
+    "species_losing_more_75pct": {
+      "titleShort": "Losing more than 75%",
+      "titleLong": "Losing more than 75%",
+      "unit": "",
+      "timespan": "2050-2050",
+      "type": "Numeric",
+      "owidVariableId": 1025724,
+      "shortName": "species_losing_more_75pct",
+      "lastUpdated": "2021-01-01",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Losing more than 75%” [dataset]. Williams, Clark, Buchanan, Ficetola, Rondinini, & Tilman (2021). Proactive conservation to prevent habitat losses to agricultural expansion. Nature Sustainability. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1025724.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-12",
+  "activeFilters": {}
+}

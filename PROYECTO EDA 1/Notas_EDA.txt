@@ -1,0 +1,97 @@
+¿Cómo sería el mundo si todos fuésemos vegetarianos?
+Impacto de la dieta vegetariana en el medio ambiente y en la salud humana.
+
+1. Comparar emisiones de CO2 si todo el mundo fuese vegetariano vs. situación actual:
+	
+	Datos necesarios:
+		
+		- Emisiones de gases de efecto invernadero de diferentes tipos de alimentos (carne, lácteos, vegetales, legumbres)
+		- Producción y consumo global de alimentos.
+
+	Fuentes:
+
+		Our World in Data - Food Emissions -> https://ourworldindata.org/food-ghg-emissions
+		FAOSTAT - Emissions & Production -> https://www.fao.org/faostat/en/#data
+
+Data API
+CO2 Emissions per capita: https://ourworldindata.org/grapher/co-emissions-per-capita.csv?v=1&csvType=full&useColumnShortNames=true
+
+	Análisis EDA:
+
+		- Calcular el total de emisiones actuales por país o por tipo de alimento.
+		- Simular un escenario "vegetariano" eliminando carne y reemplazando por proteínas vegetales.
+		- Comparar las emisiones actuales vs. hipotéticas: Porcentaje de reducción, Ranking de países con mayor impacto.
+
+	Visualización:
+
+		- Mapa mundial de emisiones actuales vs. hipotéticas.
+		- Gráfico de barras mostrando la reducción de CO2 por continente
+
+	Hipótesis:
+
+		Principal: Si todo el mundo fuese vegetariano, las emisiones globales de CO2 relacionadas con la producción de productos 			   de origen animal (carne, pescado), se reducirían significativamente. A mayor reducción de la producción, mayor 			   disminución de las emisiones.
+			
+2. Mapas mundiales mostrando impacto en salud o medio ambiente:
+
+	Datos necesarios:
+
+		- Esperanza de vida, enfermedades cardiovasculares, cáncer, desnutrición por país (WHO, Our World in Data)
+		- Uso de agua, deforestación, pérdida de biodiversidad relacionada con producción de carne (FAO, our World in Data)
+
+	Análisis EDA
+
+		- Crear mapas por país mostrando indicadores de salud y medio ambiente
+		- Comparar escenario actual vs. hipotético vegetariano: impacto potencial en salud y recursos naturales.
+
+	Visualización:
+
+		- Mapas coropléticos (cada país marcado según indicador)
+		- Bubble maps: Mostrar la magnitud de producción de alimentos y emisiones.
+
+	Hipótesis:
+
+		Principal: Un mundo vegetariano tendría un impacto positivo en la salud (aumento de la esperanza de vida y reducción de 			   enfermedades cardiovasculares y cáncer y los recursos naturales, reduciendo enfermedades relacionadas con la 			   dieta y la presión sobre el agua y la biodiversidad.
+
+3. Correlaciones: producción de carne vs. uso de agua, deforestación, salud cardiovascular.
+
+	Datos necesarios:
+
+		- Producción de carne y vegetales por país
+		- Uso de agua para agricultura
+		- Índices de deforestación y salud (enfermedades cardiovasculares, mortalidad, cáncer)
+
+	Análisis EDA:
+
+		- Correlaciones:
+
+			- Carne consumida <-> Uso de agua
+			- Carne consumida <-> Deforestación
+			- Carne consumida <-> Enfermedades cardiovasculares/Cáncer
+		
+		- Análisis de posibles tendencias si se eliminara la carne: ¿Cómo se reducirían los impactos?
+
+	Visualización:
+
+		- Scatter plots con líneas de tendencia para cada correlación
+		- Heatmap de correlaciones mostrando relaciones entre variables ambientales y de salud.
+
+	Hipótesis:
+
+		Principal: Existe una correlación positiva directa entre la disminución de producción de carne y la disminución del uso de 			   agua, la deforestación y las enfermedades cardiovasculares y cáncer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

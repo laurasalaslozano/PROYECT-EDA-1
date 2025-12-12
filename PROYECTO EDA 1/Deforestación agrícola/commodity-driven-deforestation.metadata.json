@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "title": "Agriculture-driven deforestation",
+    "subtitle": "Estimated [tree cover loss](#dod:tree-cover-loss) from agricultural deforestation is typically permanent tree cover loss attributed to small and large-scale agriculture.",
+    "note": "Improvements in the detection of tree cover loss due to the incorporation of new satellite data and methodology changes between 2011 and 2015 may result in higher estimates of loss in recent years compared to earlier years.",
+    "citation": "Global Forest Watch (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/commodity-driven-deforestation?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Brazil",
+      "Indonesia",
+      "Bolivia",
+      "Argentina"
+    ]
+  },
+  "columns": {
+    "Tree cover loss driven by agriculture": {
+      "titleShort": "Permanent agriculture",
+      "titleLong": "Permanent agriculture",
+      "descriptionShort": "Long-term, permanent [tree cover loss](#dod:tree-cover-loss) for small- to large-scale agriculture.",
+      "shortUnit": "ha",
+      "unit": "hectares",
+      "timespan": "2001-2024",
+      "type": "Numeric",
+      "owidVariableId": 1104660,
+      "shortName": "tree_cover_loss_ha__category_permanent_agriculture",
+      "lastUpdated": "2025-08-26",
+      "nextUpdate": "2026-08-26",
+      "citationShort": "Global Forest Watch (2025) – with major processing by Our World in Data",
+      "citationLong": "Global Forest Watch (2025) – with major processing by Our World in Data. “Permanent agriculture” [dataset]. Global Forest Watch, “Tree Cover Loss by Dominant Driver” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1104660.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-09",
+  "activeFilters": {}
+}

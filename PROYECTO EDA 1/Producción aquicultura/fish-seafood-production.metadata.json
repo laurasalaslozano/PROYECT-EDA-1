@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "title": "Fish and seafood production",
+    "subtitle": "Fish and seafood production is measured as the sum of seafood from wild catch and fish farming (aquaculture).",
+    "citation": "Food and Agriculture Organization of the United Nations (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/fish-seafood-production?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "India",
+      "Bangladesh",
+      "Brazil",
+      "United States",
+      "Indonesia",
+      "Peru",
+      "South Africa",
+      "Japan"
+    ]
+  },
+  "columns": {
+    "Fish and seafood | 00002960 || Production | 005511 || tonnes": {
+      "titleShort": "Fish and seafood - Production (tonnes)",
+      "titleLong": "Fish and seafood - Production (tonnes)",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1961-2022",
+      "type": "Numeric",
+      "conversionFactor": 1,
+      "owidVariableId": 1020471,
+      "shortName": "fish_and_seafood__00002960__production__005511__tonnes",
+      "lastUpdated": "2025-03-17",
+      "nextUpdate": "2026-03-17",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2024) – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2024) – processed by Our World in Data. “Fish and seafood - Production (tonnes)” [dataset]. Food and Agriculture Organization of the United Nations, “Food Balances: Food Balances (-2013, old methodology and population)”; Food and Agriculture Organization of the United Nations, “Food Balances: Food Balances (2010-)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1020471.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-12",
+  "activeFilters": {}
+}

@@ -1,0 +1,355 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,500,Fibrilación atrial,1,Número,2023,377695.15529262315,424152.80827835307,319013.7525684414
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,500,Fibrilación atrial,2,Porcentaje,2023,0.006290303048719328,0.0070814145182242745,0.005336320898063017
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,500,Fibrilación atrial,3,Tasa,2023,4.682658619189856,5.258639873205185,3.9551275073871417
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,501,Aneurisma de la aorta,1,Número,2023,167403.30920749597,187330.2142726121,147098.56487977933
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,501,Aneurisma de la aorta,2,Porcentaje,2023,0.0027881533845663486,0.0031382394029027165,0.0024502392487560564
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,501,Aneurisma de la aorta,3,Tasa,2023,2.0754636053884705,2.3225170622554248,1.8237257032621788
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,502,Enfermedad vascular periférica,1,Número,2023,74870.69601688291,83062.50147033465,66059.75202273774
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,502,Enfermedad vascular periférica,2,Porcentaje,2023,0.0012469768523922335,0.0013834533968555378,0.0011066489225228454
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,502,Enfermedad vascular periférica,3,Tasa,2023,0.9282457164603398,1.0298075921577208,0.819007770833483
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,503,Endocarditis,1,Número,2023,86237.18431779984,100820.1921737587,74241.61502144413
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,503,Endocarditis,2,Porcentaje,2023,0.0014363492651714488,0.00168799893284915,0.001236289063068478
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,503,Endocarditis,3,Tasa,2023,1.069167260373108,1.2499671633464813,0.9204463801326669
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,504,Desórdenes valvulares no reumáticos,1,Número,2023,191277.0055678858,214640.327063493,157026.6939337103
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,504,Desórdenes valvulares no reumáticos,2,Porcentaje,2023,0.003185785567165046,0.0036047158397500534,0.0026167775709363683
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,504,Desórdenes valvulares no reumáticos,3,Tasa,2023,2.3714493189126165,2.6611074128575827,1.9468144917609367
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,507,Otras enfermedades cardiovasculares y circulatorias,1,Número,2023,265868.2395042315,317886.4333212874,217080.87421186324
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,507,Otras enfermedades cardiovasculares y circulatorias,2,Porcentaje,2023,0.004428227172304001,0.005316274677066217,0.0036128016483926184
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,507,Otras enfermedades cardiovasculares y circulatorias,3,Tasa,2023,3.2962302688758838,3.9411510210189906,2.69136527817492
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,521,Cirrosis,1,Número,2023,1281999.8782463812,1430061.8584246414,1141949.2098913998
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,521,Cirrosis,2,Porcentaje,2023,0.021351388951302404,0.02366712608756518,0.019042192532632382
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,521,Cirrosis,3,Tasa,2023,15.894214409554046,17.72988452059608,14.157868417009716
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,529,Apendicitis,1,Número,2023,30964.084596698176,43515.63709494329,21878.9490678899
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,529,Apendicitis,2,Porcentaje,2023,0.0005156430839664695,0.0007274531990618741,0.0003647916228993083
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,529,Apendicitis,3,Tasa,2023,0.3838922358157251,0.5395061870844016,0.2712548678369863
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1161,Other digestive diseases,1,Número,2023,132858.10788917687,154512.90985763745,113569.64372615621
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1161,Other digestive diseases,2,Porcentaje,2023,0.0022127860222904607,0.002581378786090018,0.0019016912867470424
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1161,Other digestive diseases,3,Tasa,2023,1.6471727405518584,1.9156486361611074,1.4080346639886947
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,530,Íleo paralítico y obstrucción intestinal,1,Número,2023,243686.17842131847,286227.98281805014,201619.39611385606
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,530,Íleo paralítico y obstrucción intestinal,2,Porcentaje,2023,0.004058081465548956,0.004774277637446806,0.0034001676293568027
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,530,Íleo paralítico y obstrucción intestinal,3,Tasa,2023,3.021217423024516,3.5486500475703777,2.499674114900784
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,531,"Hernia inguinal, femoral y abdominal",1,Número,2023,51115.33407200208,67364.8369914578,38920.46352915875
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,531,"Hernia inguinal, femoral y abdominal",2,Porcentaje,2023,0.0008512558276927054,0.001128376139329307,0.0006503433782090036
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,531,"Hernia inguinal, femoral y abdominal",3,Tasa,2023,0.63372711116611,0.8351881938331301,0.4825352971935228
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,532,Enfermedad inflamatoria del colon,1,Número,2023,46543.12027374748,53063.14764483866,40417.74280961719
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,532,Enfermedad inflamatoria del colon,2,Porcentaje,2023,0.000775168181748278,0.0008914172270309767,0.0006721954590014422
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,532,Enfermedad inflamatoria del colon,3,Tasa,2023,0.577040876113432,0.6578760733320446,0.501098542259616
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,533,Trastornos vasculares del intestino,1,Número,2023,92632.1498970214,102535.5156686817,82351.79191821496
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,533,Trastornos vasculares del intestino,2,Porcentaje,2023,0.0015428070650789806,0.0017053506116955642,0.001385285931905444
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,533,Trastornos vasculares del intestino,3,Tasa,2023,1.1484519434550613,1.271233717168113,1.020996226262928
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,534,Trastornos de la vesícula y vías biliares,1,Número,2023,146697.79269524245,171424.60509631888,121838.84941732083
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,534,Trastornos de la vesícula y vías biliares,2,Porcentaje,2023,0.002443067594484985,0.002904162720241084,0.002025922649756664
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,534,Trastornos de la vesícula y vías biliares,3,Tasa,2023,1.8187569359958917,2.1253195688294633,1.5105561466208606
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,535,Pancreatitis,1,Número,2023,124471.77829539802,147333.0338481659,107751.70921319652
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,535,Pancreatitis,2,Porcentaje,2023,0.0020731291277114997,0.0024630118175998725,0.0017932942543230396
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,535,Pancreatitis,3,Tasa,2023,1.543199157609685,1.826632645859569,1.3359040030277785
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,410,Neoplasias,1,Número,2023,10567947.642411508,11166930.816312332,9726899.33095156
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,410,Neoplasias,2,Porcentaje,2023,0.17599820255217988,0.18443101854508984,0.16374844050016485
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,410,Neoplasias,3,Tasa,2023,131.02124933677132,138.44743334446224,120.59394554527391
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,411,Cáncer de esófago,1,Número,2023,577770.3322989773,643198.8572471478,505738.7266099578
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,411,Cáncer de esófago,2,Porcentaje,2023,0.009621654442228218,0.010666747186599898,0.008442267854595365
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,411,Cáncer de esófago,3,Tasa,2023,7.163187529784116,7.974369357234506,6.270140810737784
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,414,Cáncer de estómago,1,Número,2023,935903.7314831214,1083538.9176154411,797869.2830967293
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,414,Cáncer de estómago,2,Porcentaje,2023,0.015584272591872683,0.01764073970818585,0.013301596268705201
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,414,Cáncer de estómago,3,Tasa,2023,11.603319803151793,13.433698528297462,9.891970874196442
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,417,Cáncer de hígado,1,Número,2023,507716.1432358608,570015.2399746638,442386.12327938655
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,417,Cáncer de hígado,2,Porcentaje,2023,0.008455625557457673,0.009547822917339872,0.00746595173382547
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,417,Cáncer de hígado,3,Tasa,2023,6.29465679109194,7.06704001662122,5.4846962269856405
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,423,Cáncer de laringe,1,Número,2023,130770.73908038906,156395.31651038275,112131.09169627013
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,423,Cáncer de laringe,2,Porcentaje,2023,0.0021779087431106404,0.002615548751186652,0.0018656249401840862
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,423,Cáncer de laringe,3,Tasa,2023,1.6212935747565629,1.9389866843562689,1.390199518455308
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,426,"Cáncer de tráquea, bronquios y pulmones",1,Número,2023,2037142.723315915,2212922.9370974014,1857725.6729000192
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,426,"Cáncer de tráquea, bronquios y pulmones",2,Porcentaje,2023,0.03392560651594525,0.03679013948197097,0.0310426606977129
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,426,"Cáncer de tráquea, bronquios y pulmones",3,Tasa,2023,25.25646357434617,27.435783911429137,23.0320537936364
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,429,Cáncer de mama,1,Número,2023,780164.809738924,870987.3680097966,685711.7389212688
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,429,Cáncer de mama,2,Porcentaje,2023,0.012993700487210734,0.014608072050921883,0.01151008721313163
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,429,Cáncer de mama,3,Tasa,2023,9.672471090825084,10.798487745644167,8.501443398318479
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,432,Cáncer de cérvix,1,Número,2023,369511.10529319994,474516.42146910704,291690.90550366277
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,432,Cáncer de cérvix,2,Porcentaje,2023,0.006154630715622315,0.007963352272896355,0.004872853828808007
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,432,Cáncer de cérvix,3,Tasa,2023,4.5811928954900445,5.883047160660361,3.6163792774566677
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,435,Cáncer de cuerpo de útero,1,Número,2023,108592.10574022526,126194.55685984725,93211.86793103979
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,435,Cáncer de cuerpo de útero,2,Porcentaje,2023,0.001808555966703589,0.0021051660579570427,0.0015524073364702523
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,435,Cáncer de cuerpo de útero,3,Tasa,2023,1.3463232260061069,1.564558139266526,1.1556392785602538
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,438,Cáncer de próstata,1,Número,2023,473018.56552297936,530246.3620433818,415876.2073638377
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,438,Cáncer de próstata,2,Porcentaje,2023,0.007877518136608763,0.008786596320533515,0.006929826590726964
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,438,Cáncer de próstata,3,Tasa,2023,5.864476766102341,6.5739860909595365,5.156026704709754
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,441,Cáncer de  colon y recto,1,Número,2023,1107106.2166869764,1214854.7005728113,997716.9182880598
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,441,Cáncer de  colon y recto,2,Porcentaje,2023,0.018437897856084802,0.019877228040339933,0.01682501923592045
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,441,Cáncer de  colon y recto,3,Tasa,2023,13.725885533033725,15.061749548503395,12.369678724932202
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,444,Cáncer de  labios y cavidad oral,1,Número,2023,225674.0802881583,262274.4263340114,198613.99330058982
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,444,Cáncer de  labios y cavidad oral,2,Porcentaje,2023,0.003758435007389198,0.004383418708115482,0.0032785521092177244
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,444,Cáncer de  labios y cavidad oral,3,Tasa,2023,2.7979037125068666,3.251674229484142,2.462413177897832
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,447,Cáncer nasofaríngeo,1,Número,2023,75395.45103573533,89144.26054864858,63292.550693734505
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,447,Cáncer nasofaríngeo,2,Porcentaje,2023,0.0012555306386026902,0.0014593929425741345,0.0010560615285392348
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,447,Cáncer nasofaríngeo,3,Tasa,2023,0.9347516209644334,1.1052091459474132,0.7847000521012917
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,450,Otros cánceres faríngeos,1,Número,2023,113904.4361675306,140637.79094158876,92520.3466386102
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,450,Otros cánceres faríngeos,2,Porcentaje,2023,0.0018970115966867307,0.0023550377552824715,0.0015501068601156199
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,450,Otros cánceres faríngeos,3,Tasa,2023,1.4121854154327447,1.7436251291765357,1.1470658084085386
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,453,Cáncer de vesícula y tracto biliar,1,Número,2023,184064.63142702356,220588.0801169815,159823.60200411512
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,453,Cáncer de vesícula y tracto biliar,2,Porcentaje,2023,0.003065239822372644,0.003611305886268455,0.0026811264524907253
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,453,Cáncer de vesícula y tracto biliar,3,Tasa,2023,2.2820304172871384,2.734847562050528,1.981490514207705
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,456,Cáncer  pancreático,1,Número,2023,552747.3985322493,588705.5882132374,501815.7789258033
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,456,Cáncer  pancreático,2,Porcentaje,2023,0.00920571350826188,0.009793791765659421,0.008418922904090286
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,456,Cáncer  pancreático,3,Tasa,2023,6.852953588897575,7.2987626613218355,6.221504166797766
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,459,Melanoma maligno,1,Número,2023,66580.49838074703,75233.51789653277,59912.92693694005
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,459,Melanoma maligno,2,Porcentaje,2023,0.001108909881540204,0.0012647674546092881,0.0010007567351815213
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,459,Melanoma maligno,3,Tasa,2023,0.8254639760232332,0.9327439764410822,0.7427995297021857
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,462,"Cáncer de  piel, no melanómico",1,Número,2023,63934.34208152469,71569.90511826782,54374.31466374453
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,462,"Cáncer de  piel, no melanómico",2,Porcentaje,2023,0.0010647697586716463,0.001190778219706177,0.0009075846062221852
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,462,"Cáncer de  piel, no melanómico",3,Tasa,2023,0.7926569716742449,0.8873225626021226,0.6741319014946276
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,465,Cáncer de ovario,1,Número,2023,220979.39778309118,255007.0513749281,191584.6209789003
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,465,Cáncer de ovario,2,Porcentaje,2023,0.00368032239270078,0.0042623460589605745,0.003217528614201869
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,465,Cáncer de ovario,3,Tasa,2023,2.739699112345447,3.1615734285758785,2.3752631299599596
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,468,Cáncer de testículo,1,Número,2023,11913.478859308056,14684.581466801217,9640.818290388988
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,468,Cáncer de testículo,2,Porcentaje,2023,0.0001984342989008159,0.0002428495685309649,0.00015944934470434052
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,468,Cáncer de testículo,3,Tasa,2023,0.14770312428777035,0.18205921100957093,0.11952671415273233
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,471,Cáncer de riñón,1,Número,2023,165366.01353103816,180034.85927369527,146730.72899327747
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,471,Cáncer de riñón,2,Porcentaje,2023,0.002754172686481351,0.0029971441045371513,0.002471055041512265
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,471,Cáncer de riñón,3,Tasa,2023,2.0502052455034674,2.2320693652515793,1.8191652797030238
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,474,Cáncer de vejiga,1,Número,2023,233737.57522067346,257569.9096421719,208463.36469964526
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,474,Cáncer de vejiga,2,Porcentaje,2023,0.0038928953326310546,0.0042667021622495695,0.0034931889405520593
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,474,Cáncer de vejiga,3,Tasa,2023,2.8978747963755027,3.1933477052291583,2.584525530225084
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,477,Cáncer cerebral y del sistema nervioso,1,Número,2023,264169.1364597474,313229.5109655095,230522.60380608425
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,477,Cáncer cerebral y del sistema nervioso,2,Porcentaje,2023,0.004399555593663069,0.005217922447891989,0.0038798276118012834
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,477,Cáncer cerebral y del sistema nervioso,3,Tasa,2023,3.2751648159447253,3.883414570596993,2.858015631135981
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,480,Cáncer de tiroides,1,Número,2023,52221.086871379026,61485.65499025845,44697.83568826762
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,480,Cáncer de tiroides,2,Porcentaje,2023,0.0008697011775078732,0.001023709999033616,0.0007525695188718274
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,480,Cáncer de tiroides,3,Tasa,2023,0.6474362170525344,0.7622981874723848,0.5541630667267559
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,483,Mesotelioma,1,Número,2023,27988.716318467097,30872.485700811834,24763.818951362096
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,483,Mesotelioma,2,Porcentaje,2023,0.00046616470028101355,0.0005150229636315918,0.0004137065918789617
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,483,Mesotelioma,3,Tasa,2023,0.34700366650768494,0.38275659413930974,0.30702143946435123
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,484,Linfoma Hodgkin,1,Número,2023,27160.787423201724,34861.45793684379,21047.57080470423
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,484,Linfoma Hodgkin,2,Porcentaje,2023,0.00045238950824851563,0.0005854698576642322,0.0003473448560251783
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,484,Linfoma Hodgkin,3,Tasa,2023,0.3367390170326686,0.4322118094393109,0.260947453152524
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,485,Linfoma no Hodgkin,1,Número,2023,283080.9973497597,320542.3028359777,247487.17420034355
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,485,Linfoma no Hodgkin,2,Porcentaje,2023,0.004714483075003542,0.005292226748290294,0.004112812017438069
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,485,Linfoma no Hodgkin,3,Tasa,2023,3.5096337710281564,3.9740784496612056,3.0683421091549667
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,486,Mieloma múltiple,1,Número,2023,125106.9134640959,137033.43418158204,112788.52519797554
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,486,Mieloma múltiple,2,Porcentaje,2023,0.0020836067643541555,0.0022812145006634336,0.0018784693500017889
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,486,Mieloma múltiple,3,Tasa,2023,1.5510735534825904,1.6989383705237688,1.398350368711568
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,487,Leucemia,1,Número,2023,341957.8481114969,381839.4817210314,307196.4981256086
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,487,Leucemia,2,Porcentaje,2023,0.005695326628958118,0.0063902434419438455,0.005134384896206694
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,487,Leucemia,3,Tasa,2023,4.239588044539028,4.734039913333508,3.8086173719075958
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,489,Otras neoplasias malignas,1,Número,2023,225999.90572944022,250984.91714912673,196902.95193544877
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,489,Otras neoplasias malignas,2,Porcentaje,2023,0.003763756036285313,0.00419642403298012,0.003301699377476282
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,489,Otras neoplasias malignas,3,Tasa,2023,2.8019432912242257,3.1117070714461574,2.441199713854163
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,490,Otras neoplasias in situ y no malignas,1,Número,2023,124530.40037618869,145259.88905574995,106412.02364021109
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,490,Otras neoplasias in situ y no malignas,2,Porcentaje,2023,0.002073954848079079,0.002419511951771462,0.0017854877918786574
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,490,Otras neoplasias in situ y no malignas,3,Tasa,2023,1.5439259532490848,1.8009298291964486,1.3192946022784249
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,491,Enfermedades cardiovasculares,1,Número,2023,19159153.53728738,20420704.34156493,17364264.51310398
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,491,Enfermedades cardiovasculares,2,Porcentaje,2023,0.31908278725442185,0.3401339940874036,0.29086395705908713
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,491,Enfermedades cardiovasculares,3,Tasa,2023,237.53488545081382,253.17557256161177,215.28187944370754
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,492,Cardiopatías reumática,1,Número,2023,388922.3295437991,554392.2914949453,260958.92607210897
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,492,Cardiopatías reumática,2,Porcentaje,2023,0.006478064747723316,0.009282972868626673,0.00437155999028431
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,492,Cardiopatías reumática,3,Tasa,2023,4.82185294969612,6.873346946083861,3.235364677842762
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,493,Cardiopatías isquémicas,1,Número,2023,8905941.723264206,9659633.887228651,8043939.55718969
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,493,Cardiopatías isquémicas,2,Porcentaje,2023,0.14832169583915378,0.1593905690792514,0.13455851319120365
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,493,Cardiopatías isquémicas,3,Tasa,2023,110.41572598445285,119.75998962762738,99.72863663166034
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,494,Enfermedad vascular cerebral,1,Número,2023,6793204.263645121,7467572.3487474015,6064922.0460736975
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,494,Enfermedad vascular cerebral,2,Porcentaje,2023,0.1131349048961157,0.12449831555212447,0.1016393821876952
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,494,Enfermedad vascular cerebral,3,Tasa,2023,84.22204005351833,92.58284500947325,75.19280852770913
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,498,Cardiopatía hipertensiva,1,Número,2023,1485035.9800999376,1825730.3397259808,1179368.4738539692
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,498,Cardiopatía hipertensiva,2,Porcentaje,2023,0.024732255689118465,0.03027326975732172,0.019845842579334288
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,498,Cardiopatía hipertensiva,3,Tasa,2023,18.41145282002469,22.63537615411205,14.621791865491105
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,499,Cardiomiopatía y miocarditis,1,Número,2023,399919.8731496101,465148.17739083996,338418.3475738438
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,499,Cardiomiopatía y miocarditis,2,Porcentaje,2023,0.006660705487846981,0.007782598719376315,0.005604486350573456
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,499,Cardiomiopatía y miocarditis,3,Tasa,2023,4.958200323058024,5.7668998173199775,4.195705372315108
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,992,Enfermedades del aparato digestivo superior,1,Número,2023,265367.22020492627,328507.72440898145,219961.34708062053
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,992,Enfermedades del aparato digestivo superior,2,Porcentaje,2023,0.004419414933465813,0.005452369038848205,0.0036722654629148415
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,992,Enfermedades del aparato digestivo superior,3,Tasa,2023,3.2900186394509485,4.072833621554817,2.7270773356827234
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1004,Pulmonary Arterial Hypertension,1,Número,2023,22777.77767779476,29790.110828719335,17495.504371915464
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1004,Pulmonary Arterial Hypertension,2,Porcentaje,2023,0.00037936530414517985,0.0004947931256651799,0.00029240624315813224
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1004,Pulmonary Arterial Hypertension,3,Tasa,2023,0.28239853086354666,0.36933732742917236,0.2169089891575421
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1008,Eye cancer,1,Número,2023,10085.144518370676,14167.90626315689,7298.56865467468
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1008,Eye cancer,2,Porcentaje,2023,0.00016794631030354708,0.00023763759929963985,0.00012130502920984863
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1008,Eye cancer,3,Tasa,2023,0.12503546376742777,0.17565347992786745,0.09048753985759378
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1011,Soft tissue and other extraosseous sarcomas,1,Número,2023,60903.56925123,75774.02387081317,49009.31528347001
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1011,Soft tissue and other extraosseous sarcomas,2,Porcentaje,2023,0.0010143268461589396,0.0012569054467361685,0.0008159561850263594
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1011,Soft tissue and other extraosseous sarcomas,3,Tasa,2023,0.755081497597565,0.9394451610438522,0.6076167232140727
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1012,Malignant neoplasm of bone and articular cartilage,1,Número,2023,76737.4317287432,96414.81413135196,60817.41183968701
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1012,Malignant neoplasm of bone and articular cartilage,2,Porcentaje,2023,0.0012780527302929572,0.0015981350522347036,0.00101243758629811
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1012,Malignant neoplasm of bone and articular cartilage,3,Tasa,2023,0.9513894765758752,1.195349355381528,0.7540133193588037
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1013,Neuroblastoma and other peripheral nervous cell tumors,1,Número,2023,6011.929105733738,7642.359974972958,5027.382600828604
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1013,Neuroblastoma and other peripheral nervous cell tumors,2,Porcentaje,2023,0.00010013239596020861,0.00012645323794638807,8.439469102757042e-05
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1013,Neuroblastoma and other peripheral nervous cell tumors,3,Tasa,2023,0.07453580288344328,0.09474985926158543,0.06232941073733433
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1029,Total de cánceres,1,Número,2023,10443417.242035326,11041714.337670315,9608602.930463701
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1029,Total de cánceres,2,Porcentaje,2023,0.17392424770410095,0.18213524708380205,0.16190810265739913
+1,Muertes,1,Mundo,3,Ambos,22,Todas las edades,1029,Total de cánceres,3,Tasa,2023,129.4773233835223,136.89500140362,119.12730862499244
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,491,Enfermedades cardiovasculares,1,Número,2023,436504907.9315753,465168250.7462211,401444052.59253573
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,491,Enfermedades cardiovasculares,2,Porcentaje,2023,0.15620173831752923,0.16977838318315266,0.1414207755822068
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,491,Enfermedades cardiovasculares,3,Tasa,2023,5411.781011225455,5767.148686465569,4977.09707591703
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,492,Cardiopatías reumática,1,Número,2023,14476497.285877673,19882482.556909956,10130868.929903226
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,492,Cardiopatías reumática,2,Porcentaje,2023,0.005173287177549839,0.007101459439367587,0.0037425262872367434
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,492,Cardiopatías reumática,3,Tasa,2023,179.47938659386259,246.50270730603884,125.60235430539187
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,493,Cardiopatías isquémicas,1,Número,2023,192550298.21405813,208982111.58041292,175630032.27763808
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,493,Cardiopatías isquémicas,2,Porcentaje,2023,0.06891572725120246,0.07696478303019891,0.06140151523556504
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,493,Cardiopatías isquémicas,3,Tasa,2023,2387.235581195304,2590.9569459273125,2177.4583891506363
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,494,Enfermedad vascular cerebral,1,Número,2023,156519795.22812256,172249469.37689018,141125365.7638721
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,494,Enfermedad vascular cerebral,2,Porcentaje,2023,0.05601462954991661,0.06310521726384953,0.04966730190857215
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,494,Enfermedad vascular cerebral,3,Tasa,2023,1940.5299695489996,2135.546223259506,1749.6700741859468
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,498,Cardiopatía hipertensiva,1,Número,2023,28404437.95727582,35178802.66883894,22746354.223161023
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,498,Cardiopatía hipertensiva,2,Porcentaje,2023,0.01017121001739475,0.012465567498297518,0.008025103146477842
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,498,Cardiopatía hipertensiva,3,Tasa,2023,352.15777687386924,436.1462444557736,282.00894336520736
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,499,Cardiomiopatía y miocarditis,1,Número,2023,11992860.684203427,14407093.549861781,9798943.183760557
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,499,Cardiomiopatía y miocarditis,2,Porcentaje,2023,0.00429242177298908,0.005186938440121958,0.0035081229421135415
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,499,Cardiomiopatía y miocarditis,3,Tasa,2023,148.68729890940475,178.6189201618613,121.48714410392188
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,500,Fibrilación atrial,1,Número,2023,9270154.7597705,11668077.454713613,7520915.265738671
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,500,Fibrilación atrial,2,Porcentaje,2023,0.003309442164188934,0.0039215574641370725,0.0027932765238922208
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,500,Fibrilación atrial,3,Tasa,2023,114.93123350611069,144.66064151751826,93.2441896587801
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,501,Aneurisma de la aorta,1,Número,2023,3416510.528057181,3838303.12447182,3025893.162246082
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,501,Aneurisma de la aorta,2,Porcentaje,2023,0.001223088527407755,0.0013940597564159765,0.0010654249620002626
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,501,Aneurisma de la aorta,3,Tasa,2023,42.35784401143551,47.58722201492418,37.51497602864806
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,502,Enfermedad vascular periférica,1,Número,2023,1862023.435488899,2469591.8703499744,1435720.8463564343
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,502,Enfermedad vascular periférica,2,Porcentaje,2023,0.0006650743724707053,0.0008669451851366205,0.0005170822612703865
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,502,Enfermedad vascular periférica,3,Tasa,2023,23.085337386894214,30.617961325492733,17.800044564333387
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,503,Endocarditis,1,Número,2023,2336902.9260061923,2872561.0066381046,1955437.9720183108
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,503,Endocarditis,2,Porcentaje,2023,0.0008364507251488774,0.0010432069003594247,0.0006817804357295218
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,503,Endocarditis,3,Tasa,2023,28.97288587192692,35.61396636517918,24.243489347562505
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,504,Desórdenes valvulares no reumáticos,1,Número,2023,3425142.2282414804,3931585.4576551844,2933044.1184519134
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,504,Desórdenes valvulares no reumáticos,2,Porcentaje,2023,0.001225813060395984,0.001426381589846544,0.0010186364097073055
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,504,Desórdenes valvulares no reumáticos,3,Tasa,2023,42.4648596951155,48.743734920579,36.36383503805355
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,507,Otras enfermedades cardiovasculares y circulatorias,1,Número,2023,11549005.290120266,14229434.788263198,9217603.67567404
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,507,Otras enfermedades cardiovasculares y circulatorias,2,Porcentaje,2023,0.004123745355092932,0.004927978889557108,0.003409209716718693
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,507,Otras enfermedades cardiovasculares y circulatorias,3,Tasa,2023,143.18438668600814,176.4163096183671,114.27970598863061
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,438,Cáncer de próstata,1,Número,2023,8908034.062277267,10010954.730424654,7867561.3987610405
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,438,Cáncer de próstata,2,Porcentaje,2023,0.003188279145261864,0.003695134538475096,0.0027419081053142585
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,438,Cáncer de próstata,3,Tasa,2023,110.44166677076309,124.11565993856438,97.54190298620793
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,441,Cáncer de  colon y recto,1,Número,2023,26166659.126612652,28632446.114197772,23795348.98168885
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,441,Cáncer de  colon y recto,2,Porcentaje,2023,0.009368430837137303,0.010534486255920092,0.00827249893630921
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,441,Cáncer de  colon y recto,3,Tasa,2023,324.41382998334905,354.98461843192183,295.01436395022813
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,444,Cáncer de  labios y cavidad oral,1,Número,2023,6454025.82260499,7616960.336268058,5571911.1908349395
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,444,Cáncer de  labios y cavidad oral,2,Porcentaje,2023,0.002309800601445167,0.0027589074011603147,0.0019648747147676666
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,444,Cáncer de  labios y cavidad oral,3,Tasa,2023,80.01691105431408,94.43495493877604,69.08046766686509
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,447,Cáncer nasofaríngeo,1,Número,2023,2585383.919233629,3044065.3216890506,2138187.9087187303
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,447,Cáncer nasofaríngeo,2,Porcentaje,2023,0.000925957664133321,0.0011219335735633803,0.0007429947446128683
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,447,Cáncer nasofaríngeo,3,Tasa,2023,32.05354933381289,37.740274176777554,26.509220200222277
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,450,Otros cánceres faríngeos,1,Número,2023,3329070.451510485,4163538.936047594,2677352.7923734956
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,450,Otros cánceres faríngeos,2,Porcentaje,2023,0.0011919199456418463,0.0015277615455826159,0.000931671760705084
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,450,Otros cánceres faríngeos,3,Tasa,2023,41.273763312050384,51.61949051242338,33.19377798242213
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,453,Cáncer de vesícula y tracto biliar,1,Número,2023,4004826.949177236,4799757.534807559,3461775.0664869607
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,453,Cáncer de vesícula y tracto biliar,2,Porcentaje,2023,0.001433865019234889,0.0017605165015391739,0.001213803534359695
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,453,Cáncer de vesícula y tracto biliar,3,Tasa,2023,49.65178178523193,59.5073187342709,42.91903304987485
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,456,Cáncer  pancreático,1,Número,2023,12286057.270572284,13100885.606081298,11410811.854810394
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,456,Cáncer  pancreático,2,Porcentaje,2023,0.004399630093229256,0.004876292173006726,0.003943699981720899
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,456,Cáncer  pancreático,3,Tasa,2023,152.32234559464368,162.42457453500487,141.471066639666
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,459,Melanoma maligno,1,Número,2023,1825303.288104452,2147281.8940192973,1608542.969860407
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,459,Melanoma maligno,2,Porcentaje,2023,0.0006530556379736522,0.0007579659060239984,0.0005736175204704347
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,459,Melanoma maligno,3,Tasa,2023,22.630081574797558,26.621967287532662,19.942690544490546
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,462,"Cáncer de  piel, no melanómico",1,Número,2023,1335511.4107575116,1518507.022553536,1147291.8374612085
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,462,"Cáncer de  piel, no melanómico",2,Porcentaje,2023,0.0004780018375316642,0.0005564146283868985,0.0004048016955726253
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,462,"Cáncer de  piel, no melanómico",3,Tasa,2023,16.557649551435,18.826426280081865,14.224106229934543
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,465,Cáncer de ovario,1,Número,2023,6478983.187462198,7649954.703048022,5463020.896843045
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,465,Cáncer de ovario,2,Porcentaje,2023,0.0023190388207518127,0.0027698684518080224,0.0019436536669217189
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,465,Cáncer de ovario,3,Tasa,2023,80.32633207288751,94.84401858129804,67.73044750758554
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,468,Cáncer de testículo,1,Número,2023,588056.5971982867,731154.1801109859,470227.61475908663
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,468,Cáncer de testículo,2,Porcentaje,2023,0.00021046539649668708,0.00026422377012422644,0.00016402833550707127
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,468,Cáncer de testículo,3,Tasa,2023,7.290716480884119,9.06483807238888,5.829874602248387
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,471,Cáncer de riñón,1,Número,2023,4063658.5639818236,4512068.1755974,3602554.3970055534
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,471,Cáncer de riñón,2,Porcentaje,2023,0.0014547297583127844,0.0016515797414657619,0.0012690322403051389
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,471,Cáncer de riñón,3,Tasa,2023,50.381175224054594,55.940550565081836,44.66441298451004
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,474,Cáncer de vejiga,1,Número,2023,4626719.04046092,5131860.681680564,4222239.801066483
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,474,Cáncer de vejiga,2,Porcentaje,2023,0.0016561867769978333,0.001875480435082948,0.0014769548890534393
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,474,Cáncer de vejiga,3,Tasa,2023,57.36199019179561,63.624728347216845,52.34726291745101
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,477,Cáncer cerebral y del sistema nervioso,1,Número,2023,9169242.99117151,11032602.796025444,8047454.91975815
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,477,Cáncer cerebral y del sistema nervioso,2,Porcentaje,2023,0.003284119691097882,0.004015014325478272,0.002812820874227466
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,477,Cáncer cerebral y del sistema nervioso,3,Tasa,2023,113.68013097967861,136.78203665302792,99.77222004172029
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,480,Cáncer de tiroides,1,Número,2023,1560592.0630426689,1868378.0259904338,1308085.1006553592
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,480,Cáncer de tiroides,2,Porcentaje,2023,0.0005585923431301283,0.0006744669522547676,0.000475090027675612
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,480,Cáncer de tiroides,3,Tasa,2023,19.348195952855985,23.164121500395407,16.217618588387765
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,483,Mesotelioma,1,Número,2023,624802.2072111486,695736.9787762461,552892.034898928
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,483,Mesotelioma,2,Porcentaje,2023,0.00022367177812037992,0.00025487391296852166,0.00019426350968145678
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,483,Mesotelioma,3,Tasa,2023,7.7462879782489855,8.625736165007487,6.8547467883061035
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,484,Linfoma Hodgkin,1,Número,2023,1184140.3729900653,1556649.2247046903,862078.7800565264
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,484,Linfoma Hodgkin,2,Porcentaje,2023,0.00042425241222179643,0.0005661259990555935,0.00030924065814238923
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,484,Linfoma Hodgkin,3,Tasa,2023,14.680953796234514,19.299312704901386,10.688039211741547
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,485,Linfoma no Hodgkin,1,Número,2023,8318225.588986188,9684374.616892856,7117918.235728117
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,485,Linfoma no Hodgkin,2,Porcentaje,2023,0.00297725759232637,0.003496740039446889,0.0025636223485899154
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,485,Linfoma no Hodgkin,3,Tasa,2023,103.12923055752142,120.06672480647123,88.24783879315996
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,486,Mieloma múltiple,1,Número,2023,2813374.658500581,3135686.9941719975,2537766.2113657035
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,486,Mieloma múltiple,2,Porcentaje,2023,0.001006996969747431,0.0011458407613712176,0.0008868515196591438
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,486,Mieloma múltiple,3,Tasa,2023,34.880174948051234,38.87619823708081,31.46318573753889
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,487,Leucemia,1,Número,2023,12193658.693723142,13928704.123135103,10803799.727316104
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,487,Leucemia,2,Porcentaje,2023,0.004365273508766463,0.005091810472714594,0.0037456583068298144
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,487,Leucemia,3,Tasa,2023,151.1767894861773,172.68785554268342,133.94533979108698
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,489,Otras neoplasias malignas,1,Número,2023,6692765.395257497,7611755.016487029,5759598.202936789
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,489,Otras neoplasias malignas,2,Porcentaje,2023,0.002395691700820255,0.0028257829041489642,0.0020190307518976143
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,489,Otras neoplasias malignas,3,Tasa,2023,82.97680053649927,94.37041946566575,71.40740830301861
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,490,Otras neoplasias in situ y no malignas,1,Número,2023,3354065.7546599754,4117602.8116440624,2806610.048880318
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,490,Otras neoplasias in situ y no malignas,2,Porcentaje,2023,0.0011995236298686992,0.0015087061796091625,0.0010081482549832732
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,490,Otras neoplasias in situ y no malignas,3,Tasa,2023,41.58365468897725,51.04997516160103,34.796307423938444
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1029,Total de cánceres,1,Número,2023,272828785.71740043,286965942.26931155,256795739.21025187
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1029,Total de cánceres,2,Porcentaje,2023,0.09767333391258677,0.10911725340963357,0.08872194345852091
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1029,Total de cánceres,3,Tasa,2023,3382.5270117983973,3557.7992572878943,3183.749552340637
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1161,Other digestive diseases,1,Número,2023,3532357.2044391846,4155908.3415600844,3054626.220866278
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1161,Other digestive diseases,2,Porcentaje,2023,0.0012643331786928893,0.0015191589187323173,0.0010584802671197613
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1161,Other digestive diseases,3,Tasa,2023,43.794109290624476,51.52488652149106,37.87120803935338
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,992,Enfermedades del aparato digestivo superior,1,Número,2023,15343319.122138025,21013017.343753446,11608060.963229919
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,992,Enfermedades del aparato digestivo superior,2,Porcentaje,2023,0.005471657457187287,0.007149509801919261,0.00425084013860175
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,992,Enfermedades del aparato digestivo superior,3,Tasa,2023,190.22623014212508,260.5190598848934,143.9165579961876
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1004,Pulmonary Arterial Hypertension,1,Número,2023,701279.3943534157,999158.9897943519,515027.26624797645
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1004,Pulmonary Arterial Hypertension,2,Porcentaje,2023,0.0002508483437712673,0.0003553068860352705,0.00017804928476024542
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1004,Pulmonary Arterial Hypertension,3,Tasa,2023,8.694450946518142,12.387557504878941,6.385299979676438
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1008,Eye cancer,1,Número,2023,488648.8474844751,810697.3575235687,292298.70815243694
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1008,Eye cancer,2,Porcentaje,2023,0.0001750839451020184,0.0003027201270736472,0.00010057371767559724
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1008,Eye cancer,3,Tasa,2023,6.058260757031895,10.051013140004455,3.623914805175692
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1011,Soft tissue and other extraosseous sarcomas,1,Número,2023,2223840.80875943,2882574.9481893517,1712773.2764414297
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1011,Soft tissue and other extraosseous sarcomas,2,Porcentaje,2023,0.0007962639117083196,0.0010430878773201072,0.000592257720088402
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1011,Soft tissue and other extraosseous sarcomas,3,Tasa,2023,27.571143513279974,35.73811905567553,21.234936252843056
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1012,Malignant neoplasm of bone and articular cartilage,1,Número,2023,3020143.8430806557,3967055.27426022,2291386.42379475
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1012,Malignant neoplasm of bone and articular cartilage,2,Porcentaje,2023,0.0010827382892959149,0.0014344456365575893,0.000790774320484231
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1012,Malignant neoplasm of bone and articular cartilage,3,Tasa,2023,37.44369605969107,49.183489151257376,28.408572990469263
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1013,Neuroblastoma and other peripheral nervous cell tumors,1,Número,2023,333205.4270166815,443690.72799471125,270522.41159101424
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1013,Neuroblastoma and other peripheral nervous cell tumors,2,Porcentaje,2023,0.00011922486995752535,0.00015436806319288728,9.447741331739608e-05
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,1013,Neuroblastoma and other peripheral nervous cell tumors,3,Tasa,2023,4.131075664901374,5.500870695811216,3.353932621505961
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,521,Cirrosis,1,Número,2023,42857503.560538456,48021037.30242595,38009847.73361986
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,521,Cirrosis,2,Porcentaje,2023,0.015348736271164667,0.017596755562658908,0.013174934940617122
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,521,Cirrosis,3,Tasa,2023,531.3466578336997,595.3640682852424,471.2454968241034
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,529,Apendicitis,1,Número,2023,1454818.3843246656,1950876.0524549657,1093159.890108535
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,529,Apendicitis,2,Porcentaje,2023,0.0005211873310650854,0.0007313060590391359,0.0003869322221354297
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,529,Apendicitis,3,Tasa,2023,18.036815540924195,24.186930740272988,13.55297919456619
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,530,Íleo paralítico y obstrucción intestinal,1,Número,2023,7193062.215228509,8789901.540039001,5692548.715573521
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,530,Íleo paralítico y obstrucción intestinal,2,Porcentaje,2023,0.002575786957967783,0.003247533284087077,0.0020249959523043507
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,530,Íleo paralítico y obstrucción intestinal,3,Tasa,2023,89.17947267396825,108.97706161045303,70.57612980893622
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,531,"Hernia inguinal, femoral y abdominal",1,Número,2023,2401639.912333959,2961566.7067118096,1847028.7105217283
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,531,"Hernia inguinal, femoral y abdominal",2,Porcentaje,2023,0.0008577628542490508,0.0010396613795329323,0.0006970546005009954
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,531,"Hernia inguinal, femoral y abdominal",3,Tasa,2023,29.775494014393633,36.71745764052863,22.899433021625054
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,532,Enfermedad inflamatoria del colon,1,Número,2023,1620678.702130641,1889403.7758176539,1354696.6502025248
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,532,Enfermedad inflamatoria del colon,2,Porcentaje,2023,0.0005791769926528777,0.0006599219011031358,0.0005065630497427504
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,532,Enfermedad inflamatoria del colon,3,Tasa,2023,20.09314916308566,23.424798417410877,16.795507849561172
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,533,Trastornos vasculares del intestino,1,Número,2023,1721157.573220726,1918708.095702205,1563608.4829950067
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,533,Trastornos vasculares del intestino,2,Porcentaje,2023,0.0006163256992343512,0.0007162434725010777,0.00053460204975343
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,533,Trastornos vasculares del intestino,3,Tasa,2023,21.3388846329831,23.788112916323573,19.385593480176546
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,534,Trastornos de la vesícula y vías biliares,1,Número,2023,8162394.220313225,10585680.455013275,6268955.316840736
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,534,Trastornos de la vesícula y vías biliares,2,Porcentaje,2023,0.002911145556463437,0.0035021747886636208,0.002355577858742148
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,534,Trastornos de la vesícula y vías biliares,3,Tasa,2023,101.19723568961992,131.24110046964552,77.72240982274971
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,535,Pancreatitis,1,Número,2023,4201939.513044959,5090467.226350352,3562446.2578048254
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,535,Pancreatitis,2,Porcentaje,2023,0.0015045616790903627,0.0018623716033169166,0.001255890875914156
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,535,Pancreatitis,3,Tasa,2023,52.09558026453905,63.11153293641022,44.16715290294387
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,410,Neoplasias,1,Número,2023,276182851.4720606,291063819.6792043,259469869.40031654
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,410,Neoplasias,2,Porcentaje,2023,0.09887285754245545,0.11033991822704892,0.08988936987564858
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,410,Neoplasias,3,Tasa,2023,3424.1106664873755,3608.604677227556,3216.9033765501126
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,411,Cáncer de esófago,1,Número,2023,14067301.948775848,15856075.799755307,12578688.16121734
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,411,Cáncer de esófago,2,Porcentaje,2023,0.005037145163685292,0.005868035199658287,0.004370846507688421
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,411,Cáncer de esófago,3,Tasa,2023,174.40618921401366,196.58337939952403,155.95037879315947
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,414,Cáncer de estómago,1,Número,2023,22528172.04340558,26030742.576842517,19250834.91612585
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,414,Cáncer de estómago,2,Porcentaje,2023,0.008063429530861277,0.009504111476544418,0.006907999448670522
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,414,Cáncer de estómago,3,Tasa,2023,279.3039241181535,322.72873872826375,238.67154974957762
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,417,Cáncer de hígado,1,Número,2023,13921052.579708064,16106215.761570778,12068593.342762098
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,417,Cáncer de hígado,2,Porcentaje,2023,0.004984071829912266,0.005919156079484217,0.004208051515058264
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,417,Cáncer de hígado,3,Tasa,2023,172.59299182712687,199.68461072797868,149.62623122395667
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,423,Cáncer de laringe,1,Número,2023,3562051.6625535167,4287002.103464506,2987598.179167884
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,423,Cáncer de laringe,2,Porcentaje,2023,0.0012754590233618624,0.0015880427516864982,0.0010675315558470054
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,423,Cáncer de laringe,3,Tasa,2023,44.16226071719897,53.150184928160215,37.04019542828817
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,426,"Cáncer de tráquea, bronquios y pulmones",1,Número,2023,46688827.39978732,50879583.620776445,42518368.66474961
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,426,"Cáncer de tráquea, bronquios y pulmones",2,Porcentaje,2023,0.016718590391737634,0.01915171527238448,0.014529194505609702
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,426,"Cáncer de tráquea, bronquios y pulmones",3,Tasa,2023,578.8473507797512,630.8042807645546,527.1420687078385
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,429,Cáncer de mama,1,Número,2023,24620522.78535469,28109211.13061214,21694860.292472508
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,429,Cáncer de mama,2,Porcentaje,2023,0.008810428771835948,0.010113772577305852,0.007642468034922992
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,429,Cáncer de mama,3,Tasa,2023,305.24485584274896,348.4975593012569,268.97253808288474
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,432,Cáncer de cérvix,1,Número,2023,13264679.988922296,17359657.293014172,10121815.883730315
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,432,Cáncer de cérvix,2,Porcentaje,2023,0.004747337230519468,0.006252149903451445,0.0036322524064694266
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,432,Cáncer de cérvix,3,Tasa,2023,164.45529472783107,215.22475920120053,125.49011478074492
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,435,Cáncer de cuerpo de útero,1,Número,2023,2901246.721715583,3389057.244195316,2467408.3660484487
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,435,Cáncer de cuerpo de útero,2,Porcentaje,2023,0.0010383434242304563,0.0012337779395178532,0.0008748458244142223
+2,AVISA (Años de Vida Saludable Perdidos),1,Mundo,3,Ambos,22,Todas las edades,435,Cáncer de cuerpo de útero,3,Tasa,2023,35.96961141138347,42.017478628137894,30.59089027336431

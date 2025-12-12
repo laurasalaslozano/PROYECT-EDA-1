@@ -1,0 +1,50 @@
+{
+  "chart": {
+    "title": "Greenhouse gas emissions per kilogram of food product",
+    "subtitle": "[Greenhouse gas emissions](#dod:ghgemissions) are measured in kilograms of [carbon dioxide-equivalents](#dod:carbondioxideequivalents). This means non-CO₂ gases are weighted by the amount of warming they cause over a 100-year timescale.",
+    "citation": "Poore and Nemecek (2018)",
+    "originalChartUrl": "https://ourworldindata.org/explorers/food-footprints?hideControls=false&Commodity+or+Specific+Food+Product=Commodity&Environmental+Impact=Carbon+footprint&Kilogram+%2F+Protein+%2F+Calories=Per+kilogram&By+stage+of+supply+chain=false&country=Almonds~Bacon~Bananas~Beans~Beef+%28beef+herd%29~Beef+%28dairy+herd%29~Beefburger~Cheese~Cow%27s+milk~Eggs~Lamb+%26+Mutton~Maize~Milk~Peas~Penne+pasta~Pig+Meat~Pizza~Poultry+Meat~Prawns+%28farmed%29~Rice~Steak+pie~Tofu~Tomatoes~Vegetable+lasagne~Wheat+%26+Rye",
+    "selection": [
+      "Almonds",
+      "Bacon",
+      "Bananas",
+      "Beans",
+      "Beef (beef herd)",
+      "Beef (dairy herd)",
+      "Beefburger",
+      "Cheese",
+      "Cow's milk",
+      "Eggs",
+      "Lamb & Mutton",
+      "Maize",
+      "Milk",
+      "Peas",
+      "Penne pasta",
+      "Pig Meat",
+      "Pizza",
+      "Poultry Meat",
+      "Prawns (farmed)",
+      "Rice",
+      "Steak pie",
+      "Tofu",
+      "Tomatoes",
+      "Vegetable lasagne",
+      "Wheat & Rye"
+    ]
+  },
+  "columns": {
+    "GHG emissions per kilogram (Poore & Nemecek, 2018)": {
+      "titleShort": "Greenhouse gas emissions per kilogram",
+      "titleLong": "Greenhouse gas emissions per kilogram",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 104780,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Greenhouse gas emissions per kilogram” [dataset]. Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/104780.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-09",
+  "activeFilters": {}
+}
